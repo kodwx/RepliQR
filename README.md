@@ -1,3 +1,3 @@
 # RepliQR
 
-Quickly send text to your phone from your terminal.
+Quickly send text to any phone from your terminal.
